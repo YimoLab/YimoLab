@@ -71,8 +71,8 @@
 
 | 项目 | 是什么 | 入口 |
 |:--|:--|:--|
-| **LazyGit&#8209;Commit** | 读一遍 Git diff，直接写出符合 Conventional Commits 规范的提交信息。<br/> `Kotlin` · `Shell` · `PowerShell` | [Marketplace](https://plugins.jetbrains.com/plugin/30076-lazygit-commit) · 源码私有 |
-| **Oline&#8209;SSH** | 开箱即用的 Web SSH / 服务器管理 / 数据库管理一体化平台。<br/> `JavaScript` · `Vue` · `TypeScript` · `CSS` · `Shell` | [线上站点](https://ssh.casuainess.cn) · 源码私有 |
+| **LazyGit&#8209;Commit** | 读一遍 Git diff，直接写出符合 Conventional Commits 规范的提交信息。<br/> `Kotlin` · `Shell` · `PowerShell` | [Marketplace](https://plugins.jetbrains.com/plugin/30076-lazygit-commit) · 私有 |
+| **Oline&#8209;SSH** | 开箱即用的 Web SSH / 服务器管理 / 数据库管理一体化平台。<br/> `JavaScript` · `Vue` · `TypeScript` · `CSS` · `Shell` | [线上站点](https://ssh.casuainess.cn) · 私有 |
 | **[Smart&#8209;Code&#8209;TT](https://codeberg.org/YimoLab/Smart-Code-TT)** | 把一句中文描述翻译成规范的英文变量名、函数名或类名。<br/> `Vue` · `TypeScript` · `CSS` · `HTML` | [线上站点](https://var.suwanmo.cn) · [源码](https://codeberg.org/YimoLab/Smart-Code-TT) |
 
 <sub>源码托管在 <a href="https://codeberg.org/YimoLab">codeberg.org/YimoLab</a>；前两个仓库私有，暂不公开。</sub>
