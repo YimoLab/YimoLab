@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="lbTitle lbDesc">
+  <title id="lbTitle">YIMO LAB — engineering spec sheet</title>
+  <desc id="lbDesc">Light instrument panel: a measured grid, registration marks, a specification table, a ruler, and a scanner head passing over the sheet.</desc>
+
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0" stop-color="#FCFEFF"/>
+      <stop offset="0.5" stop-color="#F2F7FB"/>
+      <stop offset="1" stop-color="#E7EFF7"/>
+    </linearGradient>
+
+    <pattern id="minorGrid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0 V30 M0 30 H30" fill="none" stroke="#0B63F6" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <pattern id="majorGrid" width="150" height="150" patternUnits="userSpaceOnUse">
+      <path d="M150 0 V150 M0 150 H150" fill="none" stroke="#0B63F6" stroke-opacity="0.13" stroke-width="1"/>
+    </pattern>
+
+    <linearGradient id="readHead" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0B63F6" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#0B63F6" stop-opacity="0.09"/>
+      <stop offset="1" stop-color="#0B63F6" stop-opacity="0"/>
+    </linearGradient>
+
+    <pattern id="tickMinor" width="23" height="10" patternUnits="userSpaceOnUse" patternTransform="translate(48 0)">
+      <rect y="5" width="1" height="5" fill="#8AA3B8" fill-opacity="0.42"/>
+    </pattern>
+    <pattern id="tickMajor" width="138" height="10" patternUnits="userSpaceOnUse" patternTransform="translate(48 0)">
+      <rect width="1" height="10" fill="#8AA3B8" fill-opacity="0.62"/>
+    </pattern>
+  </defs>
+
+  <!-- sheet -->
+  <rect width="1200" height="360" fill="url(#paper)"/>
+  <rect width="1200" height="360" fill="url(#minorGrid)"/>
+  <rect width="1200" height="360" fill="url(#majorGrid)"/>
+
+  <!-- margin rail -->
+  <g stroke="#A9BFD0" stroke-width="1">
+    <path d="M48 0 V360" stroke-opacity="0.85"/>
+    <g stroke-opacity="0.55">
+      <path d="M43 20 H48"/>
+      <path d="M45 40 H48"/>
+      <path d="M45 60 H48"/>
+      <path d="M45 80 H48"/>
+      <path d="M43 100 H48"/>
+      <path d="M45 120 H48"/>
+      <path d="M45 140 H48"/>
+      <path d="M45 160 H48"/>
+      <path d="M43 180 H48"/>
+      <path d="M45 200 H48"/>
+      <path d="M45 220 H48"/>
+      <path d="M45 240 H48"/>
+      <path d="M43 260 H48"/>
+      <path d="M45 280 H48"/>
+      <path d="M45 300 H48"/>
+      <path d="M45 320 H48"/>
+      <path d="M43 340 H48"/>
+    </g>
+  </g>
+
+  <!-- registration marks -->
+  <g stroke="#9FB5C6" stroke-width="1" fill="none">
+    <g stroke-opacity="0.9">
+      <circle cx="30" cy="30" r="4.5"/>
+      <path d="M30 19 V41 M19 30 H41"/>
+      <circle cx="1170" cy="30" r="4.5"/>
+      <path d="M1170 19 V41 M1159 30 H1181"/>
+      <circle cx="30" cy="314" r="4.5"/>
+      <path d="M30 303 V325 M19 314 H41"/>
+      <circle cx="1170" cy="314" r="4.5"/>
+      <path d="M1170 303 V325 M1159 314 H1181"/>
+    </g>
+  </g>
+
+  <!-- name -->
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace">
+    <text x="96" y="170" font-size="56" font-weight="700" letter-spacing="6" fill="#0A1A2B">YIMO LAB</text>
+
+    <rect x="96" y="190" width="300" height="2" fill="#0B63F6"/>
+    <rect x="396" y="186" width="6" height="10" fill="#0B63F6"/>
+
+    <text x="97" y="224" font-size="12.5" letter-spacing="4.6" fill="#4A6982">FULL-STACK ENGINEER<tspan fill="#8AA3B8">&#160;· SYSTEMS · INTERFACES</tspan></text>
+
+    <text x="97" y="250" font-size="10.5" letter-spacing="2.6" fill="#8AA3B8">MODULES<tspan fill="#334E68">&#160;&#160;&#160;TS · GO · RUST · K8S · WEBGL</tspan></text>
+  </g>
+
+  <!-- specimen barcode -->
+  <g fill="#0A1A2B" fill-opacity="0.52">
+    <rect x="96" y="282" width="2" height="26"/>
+    <rect x="101" y="282" width="1" height="26"/>
+    <rect x="104" y="282" width="3" height="26"/>
+    <rect x="110" y="282" width="1" height="26"/>
+    <rect x="113" y="282" width="2" height="26"/>
+    <rect x="119" y="282" width="1" height="26"/>
+    <rect x="122" y="282" width="2" height="26"/>
+    <rect x="127" y="282" width="3" height="26"/>
+    <rect x="133" y="282" width="1" height="26"/>
+    <rect x="136" y="282" width="2" height="26"/>
+    <rect x="140" y="282" width="1" height="26"/>
+    <rect x="143" y="282" width="3" height="26"/>
+    <rect x="149" y="282" width="1" height="26"/>
+    <rect x="152" y="282" width="2" height="26"/>
+    <rect x="156" y="282" width="1" height="26"/>
+    <rect x="159" y="282" width="2" height="26"/>
+    <rect x="164" y="282" width="3" height="26"/>
+    <rect x="170" y="282" width="1" height="26"/>
+    <rect x="173" y="282" width="2" height="26"/>
+    <rect x="177" y="282" width="1" height="26"/>
+    <rect x="180" y="282" width="2" height="26"/>
+    <rect x="185" y="282" width="3" height="26"/>
+    <rect x="191" y="282" width="1" height="26"/>
+    <rect x="194" y="282" width="2" height="26"/>
+  </g>
+
+  <!-- spec table -->
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace">
+    <g stroke="#C3D3E0" stroke-width="1">
+      <path d="M780 128 H1152"/>
+      <path d="M780 164 H1152"/>
+      <path d="M780 200 H1152"/>
+      <path d="M780 236 H1152"/>
+      <path d="M780 272 H1152"/>
+    </g>
+
+    <g font-size="10.5" letter-spacing="2.6" fill="#8AA3B8">
+      <text x="780" y="152">STACK</text>
+      <text x="780" y="188">SECTOR</text>
+      <text x="780" y="224">STATUS</text>
+      <text x="780" y="260">BUILD</text>
+    </g>
+
+    <g font-size="12" letter-spacing="1.2" fill="#334E68">
+      <text x="896" y="152">TS · GO · RUST</text>
+      <text x="896" y="188">SYSTEMS / INTERFACES</text>
+      <text x="896" y="260">2026.11</text>
+    </g>
+    <text x="896" y="224" font-size="12" letter-spacing="1.2" fill="#0B63F6">OPEN TO COLLAB</text>
+    <rect x="880" y="219" width="5" height="5" fill="#0B63F6">
+      <animate attributeName="opacity" values="1;0.25;1" dur="2.6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- ruler -->
+  <g>
+    <rect x="48" y="330" width="1104" height="10" fill="url(#tickMinor)"/>
+    <rect x="48" y="330" width="1104" height="10" fill="url(#tickMajor)"/>
+    <path d="M48 340 H1152" stroke="#8AA3B8" stroke-opacity="0.8" stroke-width="1"/>
+  </g>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" letter-spacing="1.4" fill="#A2B7C7">
+    <text x="48" y="325">0</text>
+    <text x="600" y="325" text-anchor="middle">600</text>
+    <text x="1148" y="325" text-anchor="end">1200</text>
+  </g>
+
+  <!-- scanner head -->
+  <rect y="0" width="90" height="360" fill="url(#readHead)">
+    <animate attributeName="x" values="-120;1200" dur="15s" repeatCount="indefinite"/>
+  </rect>
+</svg>

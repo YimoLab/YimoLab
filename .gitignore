@@ -1,0 +1,4 @@
+# 主页只需要 README.md / README.en.md / assets/ / .github/
+# 下面是本地文件，不进仓库
+variants/
+*.png
