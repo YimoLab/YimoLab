@@ -71,11 +71,11 @@
 
 | 项目 | 是什么 | 入口 |
 |:--|:--|:--|
-| **LazyGit&#8209;Commit** | 读一遍 Git diff，直接写出符合 Conventional Commits 规范的提交信息。<br/> `Kotlin` · `Shell` · `PowerShell` | <a href="https://plugins.jetbrains.com/plugin/30076-lazygit-commit" target="_blank" rel="noopener">Marketplace</a> |
-| **Oline&#8209;SSH** | 开箱即用的 Web SSH / 服务器管理 / 数据库管理一体化平台。<br/> `JavaScript` · `Vue` · `TypeScript` · `CSS` · `Shell` | <a href="https://ssh.casuainess.cn" target="_blank" rel="noopener">线上站点</a> |
-| **Smart&#8209;Code&#8209;TT** | 把一句中文描述翻译成规范的英文变量名、函数名或类名。<br/> `Vue` · `TypeScript` · `CSS` · `HTML` | <a href="https://var.suwanmo.cn" target="_blank" rel="noopener">线上站点</a> |
+| **LazyGit&#8209;Commit** | 读一遍 Git diff，直接写出符合 Conventional Commits 规范的提交信息。<br/> `Kotlin` · `Shell` · `PowerShell` | <a href="https://plugins.jetbrains.com/plugin/30076-lazygit-commit">Marketplace ↗</a> |
+| **Oline&#8209;SSH** | 开箱即用的 Web SSH / 服务器管理 / 数据库管理一体化平台。<br/> `JavaScript` · `Vue` · `TypeScript` · `CSS` · `Shell` | <a href="https://ssh.casuainess.cn">线上站点 ↗</a> |
+| **Smart&#8209;Code&#8209;TT** | 把一句中文描述翻译成规范的英文变量名、函数名或类名。<br/> `Vue` · `TypeScript` · `CSS` · `HTML` | <a href="https://var.suwanmo.cn">线上站点 ↗</a> |
 
-<sub>源码托管在 <a href="https://codeberg.org/YimoLab" target="_blank" rel="noopener">codeberg.org/YimoLab</a>，多数为私有仓库。</sub>
+<sub>源码托管在 <a href="https://codeberg.org/YimoLab">codeberg.org/YimoLab ↗</a>，多数为私有仓库。</sub>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -86,7 +86,7 @@
 </div>
 
 <p align="center">
-  <sub><a href="https://esunmo.com" target="_blank" rel="noopener">博客</a> · <a href="mailto:suggest@casuainess.cn">suggest@casuainess.cn</a> · <a href="https://codeberg.org/YimoLab" target="_blank" rel="noopener">Codeberg</a></sub><br/>
+  <sub><a href="https://esunmo.com">博客 ↗</a> · <a href="mailto:suggest@casuainess.cn">suggest@casuainess.cn</a> · <a href="https://codeberg.org/YimoLab">Codeberg ↗</a></sub><br/>
   <img src="./assets/lang/label.svg" alt="LANG" height="22" />&nbsp;
   <a href="./README.md"><img src="./assets/lang/zh-on.svg" height="22" alt="中文" /></a><a href="./README.en.md"><img src="./assets/lang/en-off.svg" height="22" alt="English" /></a>
 </p>
