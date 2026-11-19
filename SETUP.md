@@ -45,7 +45,7 @@ github-profile/                    ← 推这个目录里的内容到仓库根
 | 规格表 STATUS | `OPEN TO COLLAB` | ⬜ 待改（右侧小方块会呼吸） |
 | 规格表 BUILD | `2026.11` | 装饰用，可删 |
 | 标尺数字 | `0 / 600 / 1200` | 装饰用，可删 |
-| 项目 | `PROJECT_ONE / TWO / THREE` | ⬜ 待改（链接文字 + URL 两处） |
+| 项目 | `PROJECT_NAME_1/2/3` | ⬜ 待改（名称 + 线上地址 + Codeberg 源码地址，各三处） |
 | 自我介绍 | `我在做什么` 段落 + JSON 块 | ⬜ 待改 |
 
 > 改完 `banner.svg` 后 GitHub 有 CDN 缓存，最长约 10 分钟才更新。

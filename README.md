@@ -52,6 +52,7 @@
 <div align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=YimoLab&bg_color=F5F8FB&color=334E68&line=0B63F6&point=0B63F6&area=true&area_color=0B63F6&hide_border=true" alt="贡献曲线" />
 </div>
+<p align="center"><sub>主要开发在 <a href="https://codeberg.org/YimoLab">Codeberg</a>，这里的数字只反映 GitHub 侧的活动。</sub></p>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -68,11 +69,13 @@
 
 ## 代表项目 · Selected work
 
-| 项目 | 是什么 |
-|:--|:--|
-| **[PROJECT_ONE](https://github.com/YimoLab/PROJECT_ONE)** | 一句话说清它解决了什么问题、推动了哪个数字。 <br/> `TypeScript` · `WebSocket` · `Rust` |
-| **[PROJECT_TWO](https://github.com/YimoLab/PROJECT_TWO)** | 一句话说清是哪个设计约束让它变得有意思。 <br/> `Go` · `NATS` · `Postgres` |
-| **[PROJECT_THREE](https://github.com/YimoLab/PROJECT_THREE)** | 一句话说清谁在用、为什么留下来。 <br/> `Next.js` · `WebGL` · `Design system` |
+| 项目 | 是什么 | 入口 |
+|:--|:--|:--|
+| **[PROJECT_NAME_1](SOURCE_URL_1)** | 一句话说清它解决什么问题、谁在用。<br/> `Stack` · `Stack` | [线上站点](LIVE_URL_1) · [源码](SOURCE_URL_1) |
+| **[PROJECT_NAME_2](SOURCE_URL_2)** | 一句话说清是哪个约束让它变得有意思。<br/> `Stack` · `Stack` | [线上站点](LIVE_URL_2) · [源码](SOURCE_URL_2) |
+| **[PROJECT_NAME_3](SOURCE_URL_3)** | 一句话说清谁在用、为什么留下来。<br/> `Stack` · `Stack` | [线上站点](LIVE_URL_3) · [源码](SOURCE_URL_3) |
+
+<sub>源码全部托管在 <a href="https://codeberg.org/YimoLab">codeberg.org/YimoLab</a>，这个仓库只放主页。</sub>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
