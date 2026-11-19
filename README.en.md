@@ -71,9 +71,9 @@ latency budgets, and the two milliseconds that decide whether a UI feels alive.
 
 | Project | What it is | Where |
 |:--|:--|:--|
-| **LazyGit-Commit** | Reads the git diff, then writes the Conventional Commits message for you.<br/> `Kotlin` · `Shell` · `PowerShell` | [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/30076-lazygit-commit) · source private |
-| **Oline-SSH** | A ready-to-run web SSH, server and database console in one place.<br/> `JavaScript` · `Vue` · `TypeScript` · `CSS` · `Shell` | [live](https://ssh.casuainess.cn) · source private |
-| **[Smart-Code-TT](https://codeberg.org/YimoLab/Smart-Code-TT)** | Turns one Chinese sentence into a well-formed English identifier.<br/> `Vue` · `TypeScript` · `CSS` · `HTML` | [live](https://var.suwanmo.cn) · [source](https://codeberg.org/YimoLab/Smart-Code-TT) |
+| **LazyGit&#8209;Commit** | Reads the git diff, then writes the Conventional Commits message for you.<br/> `Kotlin` · `Shell` · `PowerShell` | [Marketplace](https://plugins.jetbrains.com/plugin/30076-lazygit-commit) · source private |
+| **Oline&#8209;SSH** | A ready-to-run web SSH, server and database console in one place.<br/> `JavaScript` · `Vue` · `TypeScript` · `CSS` · `Shell` | [live](https://ssh.casuainess.cn) · source private |
+| **[Smart&#8209;Code&#8209;TT](https://codeberg.org/YimoLab/Smart-Code-TT)** | Turns one Chinese sentence into a well-formed English identifier.<br/> `Vue` · `TypeScript` · `CSS` · `HTML` | [live](https://var.suwanmo.cn) · [source](https://codeberg.org/YimoLab/Smart-Code-TT) |
 
 <sub>Source lives on <a href="https://codeberg.org/YimoLab">codeberg.org/YimoLab</a>; the first two repos are private.</sub>
 
