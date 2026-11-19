@@ -71,11 +71,11 @@
 
 | 项目 | 是什么 | 入口 |
 |:--|:--|:--|
-| **[PROJECT_NAME_1](SOURCE_URL_1)** | 一句话说清它解决什么问题、谁在用。<br/> `Stack` · `Stack` | [线上站点](LIVE_URL_1) · [源码](SOURCE_URL_1) |
-| **[PROJECT_NAME_2](SOURCE_URL_2)** | 一句话说清是哪个约束让它变得有意思。<br/> `Stack` · `Stack` | [线上站点](LIVE_URL_2) · [源码](SOURCE_URL_2) |
-| **[PROJECT_NAME_3](SOURCE_URL_3)** | 一句话说清谁在用、为什么留下来。<br/> `Stack` · `Stack` | [线上站点](LIVE_URL_3) · [源码](SOURCE_URL_3) |
+| **LazyGit-Commit** | 读一遍 Git diff，直接写出符合 Conventional Commits 规范的提交信息。<br/> `Kotlin` · `Shell` · `PowerShell` | [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/30076-lazygit-commit) · 源码私有 |
+| **Oline-SSH** | 开箱即用的 Web SSH / 服务器管理 / 数据库管理一体化平台。<br/> `JavaScript` · `Vue` · `TypeScript` · `CSS` · `Shell` | [线上站点](https://ssh.casuainess.cn) · 源码私有 |
+| **[Smart-Code-TT](https://codeberg.org/YimoLab/Smart-Code-TT)** | 把一句中文描述翻译成规范的英文变量名、函数名或类名。<br/> `Vue` · `TypeScript` · `CSS` · `HTML` | [线上站点](https://var.suwanmo.cn) · [源码](https://codeberg.org/YimoLab/Smart-Code-TT) |
 
-<sub>源码全部托管在 <a href="https://codeberg.org/YimoLab">codeberg.org/YimoLab</a>，这个仓库只放主页。</sub>
+<sub>源码托管在 <a href="https://codeberg.org/YimoLab">codeberg.org/YimoLab</a>；前两个仓库私有，暂不公开。</sub>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 

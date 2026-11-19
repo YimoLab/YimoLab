@@ -71,11 +71,11 @@ latency budgets, and the two milliseconds that decide whether a UI feels alive.
 
 | Project | What it is | Where |
 |:--|:--|:--|
-| **[PROJECT_NAME_1](SOURCE_URL_1)** | One line on the problem it solves and who uses it.<br/> `Stack` · `Stack` | [live](LIVE_URL_1) · [source](SOURCE_URL_1) |
-| **[PROJECT_NAME_2](SOURCE_URL_2)** | One line on the constraint that made it interesting.<br/> `Stack` · `Stack` | [live](LIVE_URL_2) · [source](SOURCE_URL_2) |
-| **[PROJECT_NAME_3](SOURCE_URL_3)** | One line on who uses it and why they stayed.<br/> `Stack` · `Stack` | [live](LIVE_URL_3) · [source](SOURCE_URL_3) |
+| **LazyGit-Commit** | Reads the git diff, then writes the Conventional Commits message for you.<br/> `Kotlin` · `Shell` · `PowerShell` | [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/30076-lazygit-commit) · source private |
+| **Oline-SSH** | A ready-to-run web SSH, server and database console in one place.<br/> `JavaScript` · `Vue` · `TypeScript` · `CSS` · `Shell` | [live](https://ssh.casuainess.cn) · source private |
+| **[Smart-Code-TT](https://codeberg.org/YimoLab/Smart-Code-TT)** | Turns one Chinese sentence into a well-formed English identifier.<br/> `Vue` · `TypeScript` · `CSS` · `HTML` | [live](https://var.suwanmo.cn) · [source](https://codeberg.org/YimoLab/Smart-Code-TT) |
 
-<sub>All source lives on <a href="https://codeberg.org/YimoLab">codeberg.org/YimoLab</a> — this repo only holds the profile page.</sub>
+<sub>Source lives on <a href="https://codeberg.org/YimoLab">codeberg.org/YimoLab</a>; the first two repos are private.</sub>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
