@@ -1,5 +1,5 @@
 <p align="center">
-  <sub><code>LANG</code></sub>&nbsp;
+  <img src="./assets/lang/label.svg" alt="LANG" height="26" />&nbsp;
   <a href="./README.md"><img src="./assets/lang/zh-on.svg" height="26" alt="中文" /></a><a href="./README.en.md"><img src="./assets/lang/en-off.svg" height="26" alt="English" /></a>
 </p>
 
@@ -83,7 +83,7 @@
 </div>
 
 <p align="center">
-  <sub><code>LANG</code></sub>&nbsp;
+  <img src="./assets/lang/label.svg" alt="LANG" height="22" />&nbsp;
   <a href="./README.md"><img src="./assets/lang/zh-on.svg" height="22" alt="中文" /></a><a href="./README.en.md"><img src="./assets/lang/en-off.svg" height="22" alt="English" /></a>
 </p>
 
