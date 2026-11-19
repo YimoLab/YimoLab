@@ -9,7 +9,7 @@
     </linearGradient>
   </defs>
 
-  <path d="M0 14 H1200" stroke="url(#lLine)" stroke-width="2.2"/>
+  <path d="M0 14 H1200" stroke="url(#lLine)" stroke-width="3"/>
 
   <g stroke="#7C95AB" stroke-width="1.1" stroke-opacity="0.9">
     <path d="M300 14 v-4 h13"/>

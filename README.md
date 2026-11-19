@@ -13,9 +13,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E5%8F%AF%E5%90%88%E4%BD%9C-0B63F6?style=flat-square&labelColor=0B63F6&logo=statuspage&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/%E4%B8%93%E6%B3%A8-%E5%AE%9E%E6%97%B6%20%C2%B7%20%E5%B7%A5%E5%85%B7%20%C2%B7%20%E7%95%8C%E9%9D%A2-334E68?style=flat-square&labelColor=0B63F6" alt="" />
-  <img src="https://img.shields.io/github/followers/YimoLab?style=flat-square&labelColor=0B63F6&color=334E68&logo=github&logoColor=white&label=%E5%85%B3%E6%B3%A8" alt="" />
-  <img src="https://komarev.com/ghpvc/?username=YimoLab&label=%E8%AE%BF%E5%AE%A2&color=0B63F6&style=flat-square" alt="" />
+  <img src="https://img.shields.io/badge/%E4%B8%93%E6%B3%A8-%E5%AE%9E%E6%97%B6%20%C2%B7%20%E5%B7%A5%E5%85%B7%20%C2%B7%20%E7%95%8C%E9%9D%A2-334E68?style=flat-square&labelColor=334E68" alt="" />
+  <img src="https://img.shields.io/github/followers/YimoLab?style=flat-square&labelColor=334E68&color=334E68&logo=github&logoColor=white&label=%E5%85%B3%E6%B3%A8" alt="" />
+  <img src="https://komarev.com/ghpvc/?username=YimoLab&label=%E8%AE%BF%E5%AE%A2&color=334E68&style=flat-square" alt="" />
 </p>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
