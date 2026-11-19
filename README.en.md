@@ -71,11 +71,11 @@ latency budgets, and the two milliseconds that decide whether a UI feels alive.
 
 | Project | What it is | Where |
 |:--|:--|:--|
-| **LazyGit&#8209;Commit** | Reads the git diff, then writes the Conventional Commits message for you.<br/> `Kotlin` · `Shell` · `PowerShell` | [Marketplace](https://plugins.jetbrains.com/plugin/30076-lazygit-commit) |
-| **Oline&#8209;SSH** | A ready-to-run web SSH, server and database console in one place.<br/> `JavaScript` · `Vue` · `TypeScript` · `CSS` · `Shell` | [live](https://ssh.casuainess.cn) |
-| **[Smart&#8209;Code&#8209;TT](https://codeberg.org/YimoLab/Smart-Code-TT)** | Turns one Chinese sentence into a well-formed English identifier.<br/> `Vue` · `TypeScript` · `CSS` · `HTML` | [live](https://var.suwanmo.cn) · [source](https://codeberg.org/YimoLab/Smart-Code-TT) |
+| **LazyGit&#8209;Commit** | Reads the git diff, then writes the Conventional Commits message for you.<br/> `Kotlin` · `Shell` · `PowerShell` | <a href="https://plugins.jetbrains.com/plugin/30076-lazygit-commit" target="_blank" rel="noopener">Marketplace</a> |
+| **Oline&#8209;SSH** | A ready-to-run web SSH, server and database console in one place.<br/> `JavaScript` · `Vue` · `TypeScript` · `CSS` · `Shell` | <a href="https://ssh.casuainess.cn" target="_blank" rel="noopener">live</a> |
+| **Smart&#8209;Code&#8209;TT** | Turns one Chinese sentence into a well-formed English identifier.<br/> `Vue` · `TypeScript` · `CSS` · `HTML` | <a href="https://var.suwanmo.cn" target="_blank" rel="noopener">live</a> |
 
-<sub>Source lives on <a href="https://codeberg.org/YimoLab">codeberg.org/YimoLab</a>; the first two repos are private.</sub>
+<sub>Source lives on <a href="https://codeberg.org/YimoLab" target="_blank" rel="noopener">codeberg.org/YimoLab</a>; most repos are private.</sub>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -86,6 +86,7 @@ latency budgets, and the two milliseconds that decide whether a UI feels alive.
 </div>
 
 <p align="center">
+  <sub><a href="https://esunmo.com" target="_blank" rel="noopener">Blog</a> · <a href="mailto:suggest@casuainess.cn">suggest@casuainess.cn</a> · <a href="https://codeberg.org/YimoLab" target="_blank" rel="noopener">Codeberg</a></sub><br/>
   <img src="./assets/lang/label.svg" alt="LANG" height="22" />&nbsp;
   <a href="./README.md"><img src="./assets/lang/zh-off.svg" height="22" alt="中文" /></a><a href="./README.en.md"><img src="./assets/lang/en-on.svg" height="22" alt="English" /></a>
 </p>
