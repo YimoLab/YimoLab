@@ -10,6 +10,7 @@
 | `README.en.md` | 英文版，从顶部语言条进入 |
 | `assets/banner.svg` | 头图：量测栅格、规格表、标尺、条码、15s 扫描头 |
 | `assets/divider.svg` | 分区发丝线 |
+| `assets/social-preview.svg` | 社交分享卡片源文件（1280×640，导出 PNG 后在 Settings → Social preview 上传） |
 | `assets/lang/` | 语言条四枚铁片：`label` `zh-on` `zh-off` `en-on` `en-off` |
 | `.github/workflows/snake.yml` | 每晚生成贡献蛇 → 推到 `output` 分支 |
 | `variants/console/` | 暗色控制台版整套存档（已 gitignore，本地回退用） |

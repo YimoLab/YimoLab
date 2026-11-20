@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="spTitle spDesc">
+  <title id="spTitle">YIMO LAB — profile</title>
+  <desc id="spDesc">Social preview card: measured grid, registration marks, name and one line of contact.</desc>
+
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0" stop-color="#FCFEFF"/>
+      <stop offset="0.5" stop-color="#F2F7FB"/>
+      <stop offset="1" stop-color="#E7EFF7"/>
+    </linearGradient>
+    <pattern id="minorGrid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0 V32 M0 32 H32" fill="none" stroke="#0B63F6" stroke-opacity="0.10" stroke-width="1"/>
+    </pattern>
+    <pattern id="majorGrid" width="160" height="160" patternUnits="userSpaceOnUse">
+      <path d="M160 0 V160 M0 160 H160" fill="none" stroke="#0B63F6" stroke-opacity="0.16" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="readHead" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0B63F6" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#0B63F6" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#0B63F6" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="640" fill="url(#paper)"/>
+  <rect width="1280" height="640" fill="url(#minorGrid)"/>
+  <rect width="1280" height="640" fill="url(#majorGrid)"/>
+
+  <!-- registration marks -->
+  <g stroke="#8FA9BE" stroke-width="1.4" fill="none" stroke-opacity="0.9">
+    <circle cx="48" cy="48" r="8"/><path d="M48 28 V68 M28 48 H68"/>
+    <circle cx="1232" cy="48" r="8"/><path d="M1232 28 V68 M1212 48 H1252"/>
+    <circle cx="48" cy="592" r="8"/><path d="M48 572 V612 M28 592 H68"/>
+    <circle cx="1232" cy="592" r="8"/><path d="M1232 572 V612 M1212 592 H1252"/>
+  </g>
+
+  <!-- name -->
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace">
+    <text x="104" y="316" font-size="96" font-weight="700" letter-spacing="10" fill="#0A1A2B">YIMO LAB</text>
+    <rect x="104" y="346" width="512" height="4" fill="#0B63F6"/>
+    <rect x="616" y="341" width="9" height="14" fill="#0B63F6"/>
+
+    <text x="106" y="410" font-size="19" letter-spacing="6" fill="#4A6982">FULL-STACK ENGINEER<tspan fill="#8AA3B8">&#160;· SYSTEMS · INTERFACES</tspan></text>
+    <text x="106" y="462" font-size="16" letter-spacing="2.4" fill="#7A93A9">codeberg.org/YimoLab&#160;&#160;·&#160;&#160;esunmo.com</text>
+  </g>
+
+  <!-- status -->
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace">
+    <rect x="1064" y="284" width="9" height="9" fill="#0B63F6">
+      <animate attributeName="opacity" values="1;0.25;1" dur="2.6s" repeatCount="indefinite"/>
+    </rect>
+    <text x="1084" y="293" font-size="15" letter-spacing="2.6" fill="#0B63F6">OPEN TO COLLAB</text>
+    <text x="1084" y="330" font-size="13" letter-spacing="2" fill="#A2B7C7">SPECIMEN 2026.11</text>
+  </g>
+
+  <!-- ruler -->
+  <g stroke="#8AA3B8">
+    <path d="M104 592 H1176" stroke-opacity="0.75" stroke-width="1"/>
+    <g stroke-opacity="0.45">
+      <path d="M104 592 V584"/><path d="M168 592 V586"/><path d="M232 592 V586"/><path d="M296 592 V584"/>
+      <path d="M360 592 V586"/><path d="M424 592 V586"/><path d="M488 592 V584"/><path d="M552 592 V586"/>
+      <path d="M616 592 V586"/><path d="M680 592 V584"/><path d="M744 592 V586"/><path d="M808 592 V586"/>
+      <path d="M872 592 V584"/><path d="M936 592 V586"/><path d="M1000 592 V586"/><path d="M1064 592 V584"/>
+      <path d="M1128 592 V586"/>
+    </g>
+  </g>
+
+  <rect y="0" width="120" height="640" fill="url(#readHead)">
+    <animate attributeName="x" values="-160;1280" dur="14s" repeatCount="indefinite"/>
+  </rect>
+</svg>
