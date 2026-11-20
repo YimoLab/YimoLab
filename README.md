@@ -13,7 +13,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E5%8F%AF%E5%90%88%E4%BD%9C-0B63F6?style=flat-square&labelColor=0B63F6&logo=statuspage&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/%E4%B8%93%E6%B3%A8-%E5%AE%9E%E6%97%B6%20%C2%B7%20%E5%B7%A5%E5%85%B7%20%C2%B7%20%E7%95%8C%E9%9D%A2-334E68?style=flat-square&labelColor=334E68" alt="" />
+  <img src="https://img.shields.io/badge/%E4%B8%93%E6%B3%A8-%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7%20%C2%B7%20%E5%A4%A7%E6%A8%A1%E5%9E%8B%20%C2%B7%20%E8%87%AA%E6%89%98%E7%AE%A1-334E68?style=flat-square&labelColor=334E68" alt="" />
   <img src="https://img.shields.io/github/followers/YimoLab?style=flat-square&labelColor=334E68&color=334E68&logo=github&logoColor=white&label=%E5%85%B3%E6%B3%A8" alt="" />
   <img src="https://komarev.com/ghpvc/?username=YimoLab&label=%E8%AE%BF%E5%AE%A2&color=334E68&style=flat-square" alt="" />
 </p>
@@ -22,16 +22,17 @@
 
 ## 我在做什么
 
-做在负载下依然快的系统，和让这种快**看得见**的界面。
-我最在意的是产品决策落成协议决策的那条缝——事件模型、延迟预算，
-以及决定一个 UI 是"活着"还是"能用"的那两毫秒。
+把重复的动作交给模型，把判断留给自己。
+我做的工具都是自己每天要用的东西——在 IDE 里把一堆 diff 写成能过 review 的提交信息，
+把一句中文变成规范的变量名，把一台服务器连同数据库塞进一个浏览器标签页。
+共同点是：能自己部署，密钥不出你的机器。
 
 ```json
 {
-  "role": "全栈工程师",
-  "stack": ["TypeScript", "Go", "Rust"],
-  "focus": "实时系统 · 开发者工具 · 界面工艺",
-  "currently": "流式管道 + 一个能自我交付的设计系统",
+  "role": "全栈工程师 · 工具作者",
+  "stack": ["Vue", "TypeScript", "Kotlin"],
+  "focus": "开发者工具 · 大模型集成 · 自托管运维",
+  "currently": "JetBrains 插件 + 两个 LLM 小工具",
   "status": "欢迎合作"
 }
 ```
@@ -60,10 +61,14 @@
 
 | | |
 |:--|:--|
-| **语言** | <img src="https://img.shields.io/badge/TypeScript-334E68?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Go-334E68?style=flat-square&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Rust-334E68?style=flat-square&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/Python-334E68?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-334E68?style=flat-square&logo=postgresql&logoColor=white" /> |
-| **界面** | <img src="https://img.shields.io/badge/React-334E68?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-334E68?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Vue-334E68?style=flat-square&logo=vuedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-334E68?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/WebGL-334E68?style=flat-square&logo=webgl&logoColor=white" /> |
-| **系统** | <img src="https://img.shields.io/badge/Node-334E68?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/gRPC-334E68?style=flat-square&logo=googlecloud&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-334E68?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-334E68?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Kafka-334E68?style=flat-square&logo=apachekafka&logoColor=white" /> |
-| **基础设施** | <img src="https://img.shields.io/badge/Docker-334E68?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-334E68?style=flat-square&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Terraform-334E68?style=flat-square&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub%20Actions-334E68?style=flat-square&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Grafana-334E68?style=flat-square&logo=grafana&logoColor=white" /> |
+| | |
+|:--|:--|
+| **语言** | <img src="https://img.shields.io/badge/TypeScript-334E68?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-334E68?style=flat-square&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-334E68?style=flat-square&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Shell-334E68?style=flat-square&logo=gnubash&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-334E68?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-334E68?style=flat-square&logo=css3&logoColor=white" /> |
+| **前端** | <img src="https://img.shields.io/badge/Vue-334E68?style=flat-square&logo=vuedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-334E68?style=flat-square&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-334E68?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/daisyUI-334E68?style=flat-square&logo=daisyui&logoColor=white" /> |
+| **插件 / 工具** | <img src="https://img.shields.io/badge/JetBrains-334E68?style=flat-square&logo=jetbrains&logoColor=white" /> <img src="https://img.shields.io/badge/IntelliJ%20Platform-334E68?style=flat-square&logo=intellijidea&logoColor=white" /> <img src="https://img.shields.io/badge/PowerShell-334E68?style=flat-square&logo=powershell&logoColor=white" /> |
+| **模型接入** | <img src="https://img.shields.io/badge/DeepSeek-334E68?style=flat-square" /> <img src="https://img.shields.io/badge/OpenAI-334E68?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/SiliconFlow-334E68?style=flat-square" /> <img src="https://img.shields.io/badge/%E6%99%BA%E8%B0%B1-334E68?style=flat-square" /> <img src="https://img.shields.io/badge/OpenAI%20%E5%85%BC%E5%AE%B9-334E68?style=flat-square" /> |
+| **部署** | <img src="https://img.shields.io/badge/Nginx-334E68?style=flat-square&logo=nginx&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub%20Actions-334E68?style=flat-square&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-334E68?style=flat-square&logo=linux&logoColor=white" /> |
+| **代码托管** | <img src="https://img.shields.io/badge/Codeberg-334E68?style=flat-square&logo=codeberg&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-334E68?style=flat-square&logo=github&logoColor=white" /> |
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 

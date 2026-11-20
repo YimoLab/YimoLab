@@ -13,7 +13,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLAB-0B63F6?style=flat-square&labelColor=0B63F6&logo=statuspage&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/FOCUS-REALTIME%20·%20DX%20·%20INTERFACE-334E68?style=flat-square&labelColor=334E68" alt="" />
+  <img src="https://img.shields.io/badge/FOCUS-DEV%20TOOLS%20%C2%B7%20LLM%20%C2%B7%20SELF%2DHOSTED-334E68?style=flat-square&labelColor=334E68" alt="" />
   <img src="https://img.shields.io/github/followers/YimoLab?style=flat-square&labelColor=334E68&color=334E68&logo=github&logoColor=white&label=FOLLOWERS" alt="" />
   <img src="https://komarev.com/ghpvc/?username=YimoLab&label=VISITORS&color=334E68&style=flat-square" alt="" />
 </p>
@@ -22,16 +22,17 @@
 
 ## What I build
 
-Systems that stay fast under load, and interfaces that make that speed legible.
-I care about the seam where product decisions become protocol decisions — event models,
-latency budgets, and the two milliseconds that decide whether a UI feels alive.
+Hand the repetitive parts to a model and keep the judgement.
+Everything I build is something I use daily: turning a pile of diffs into a commit message that passes review,
+slotting one Chinese sentence into a valid identifier, putting a server and its databases in a single browser tab.
+The common thread — self-hostable, and your keys never leave your machine.
 
 ```json
 {
-  "role": "full-stack engineer",
-  "stack": ["TypeScript", "Go", "Rust"],
-  "focus": "realtime systems · developer tooling · interface craft",
-  "currently": "streaming pipelines + a design system that ships itself",
+  "role": "full-stack engineer · tool author",
+  "stack": ["Vue", "TypeScript", "Kotlin"],
+  "focus": "developer tooling · LLM integration · self-hosted ops",
+  "currently": "a JetBrains plugin + two LLM utilities",
   "status": "open to collaboration"
 }
 ```
@@ -60,10 +61,14 @@ latency budgets, and the two milliseconds that decide whether a UI feels alive.
 
 | | |
 |:--|:--|
-| **LANGUAGES** | <img src="https://img.shields.io/badge/TypeScript-334E68?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Go-334E68?style=flat-square&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Rust-334E68?style=flat-square&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/Python-334E68?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-334E68?style=flat-square&logo=postgresql&logoColor=white" /> |
-| **INTERFACE** | <img src="https://img.shields.io/badge/React-334E68?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-334E68?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Vue-334E68?style=flat-square&logo=vuedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-334E68?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/WebGL-334E68?style=flat-square&logo=webgl&logoColor=white" /> |
-| **SYSTEMS** | <img src="https://img.shields.io/badge/Node-334E68?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/gRPC-334E68?style=flat-square&logo=googlecloud&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-334E68?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-334E68?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Kafka-334E68?style=flat-square&logo=apachekafka&logoColor=white" /> |
-| **INFRA** | <img src="https://img.shields.io/badge/Docker-334E68?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-334E68?style=flat-square&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Terraform-334E68?style=flat-square&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub%20Actions-334E68?style=flat-square&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Grafana-334E68?style=flat-square&logo=grafana&logoColor=white" /> |
+| | |
+|:--|:--|
+| **LANGUAGES** | <img src="https://img.shields.io/badge/TypeScript-334E68?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-334E68?style=flat-square&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-334E68?style=flat-square&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Shell-334E68?style=flat-square&logo=gnubash&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-334E68?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-334E68?style=flat-square&logo=css3&logoColor=white" /> |
+| **FRONTEND** | <img src="https://img.shields.io/badge/Vue-334E68?style=flat-square&logo=vuedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-334E68?style=flat-square&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-334E68?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/daisyUI-334E68?style=flat-square&logo=daisyui&logoColor=white" /> |
+| **PLUGIN / TOOLING** | <img src="https://img.shields.io/badge/JetBrains-334E68?style=flat-square&logo=jetbrains&logoColor=white" /> <img src="https://img.shields.io/badge/IntelliJ%20Platform-334E68?style=flat-square&logo=intellijidea&logoColor=white" /> <img src="https://img.shields.io/badge/PowerShell-334E68?style=flat-square&logo=powershell&logoColor=white" /> |
+| **LLM PROVIDERS** | <img src="https://img.shields.io/badge/DeepSeek-334E68?style=flat-square" /> <img src="https://img.shields.io/badge/OpenAI-334E68?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/SiliconFlow-334E68?style=flat-square" /> <img src="https://img.shields.io/badge/Zhipu-334E68?style=flat-square" /> <img src="https://img.shields.io/badge/OpenAI-compatible-334E68?style=flat-square" /> |
+| **DEPLOY** | <img src="https://img.shields.io/badge/Nginx-334E68?style=flat-square&logo=nginx&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub%20Actions-334E68?style=flat-square&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-334E68?style=flat-square&logo=linux&logoColor=white" /> |
+| **HOSTING** | <img src="https://img.shields.io/badge/Codeberg-334E68?style=flat-square&logo=codeberg&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-334E68?style=flat-square&logo=github&logoColor=white" /> |
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
