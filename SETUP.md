@@ -73,3 +73,15 @@ Copy-Item .\variants\console\.github\workflows\snake.yml .\.github\workflows\sna
 
 全站只有一个强调色 `#0B63F6`（`banner.svg`、`divider.svg`、`assets/lang/*.svg`、README 卡片 URL 里的 `title_color` / `line` / `ring`）。
 把它换成 `#0F766E`（医疗绿）或 `#B45309`（琥珀），结构不动、气质立刻换掉。
+## 重出社交分享卡片
+
+`assets/social-preview.svg` 是源文件，仓库里不存 PNG（`.gitignore` 挡 `*.png`）。需要时重新导出一次：
+
+```powershell
+# 用本机 Chrome 无头模式导出 1280x640 PNG（virtual-time-budget 让扫描光带停在画布外）
+$svg = "file:///" + ((Resolve-Path .\assets\social-preview.svg).Path -replace '\\','/')
+& "$env:ProgramFiles\Google\Chrome\Application\chrome.exe" --headless=new --disable-gpu `
+  --window-size=1280,640 --virtual-time-budget=250 --screenshot=social-preview.png $svg
+```
+
+导出后在 **仓库 → Settings → General → Social preview** 上传（GitHub 要求正好 1280×640）。
