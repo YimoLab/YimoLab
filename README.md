@@ -86,7 +86,10 @@
 </div>
 
 <p align="center">
-  <sub><a href="https://esunmo.com">博客 ↗</a> · <a href="mailto:suggest@casuainess.cn">suggest@casuainess.cn</a> · <a href="https://codeberg.org/YimoLab">Codeberg ↗</a></sub><br/>
+  <sub><a href="https://esunmo.com">博客 ↗</a> · <a href="mailto:suggest@casuainess.cn">suggest@casuainess.cn</a> · <a href="https://codeberg.org/YimoLab">Codeberg ↗</a></sub>
+</p>
+
+<p align="center">
   <img src="./assets/lang/label.svg" alt="LANG" height="22" />&nbsp;
   <a href="./README.md"><img src="./assets/lang/zh-on.svg" height="22" alt="中文" /></a><a href="./README.en.md"><img src="./assets/lang/en-off.svg" height="22" alt="English" /></a>
 </p>
