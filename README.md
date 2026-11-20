@@ -61,8 +61,6 @@
 
 | | |
 |:--|:--|
-| | |
-|:--|:--|
 | **语言** | <img src="https://img.shields.io/badge/TypeScript-334E68?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-334E68?style=flat-square&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-334E68?style=flat-square&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Shell-334E68?style=flat-square&logo=gnubash&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-334E68?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-334E68?style=flat-square&logo=css3&logoColor=white" /> |
 | **前端** | <img src="https://img.shields.io/badge/Vue-334E68?style=flat-square&logo=vuedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-334E68?style=flat-square&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-334E68?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/daisyUI-334E68?style=flat-square&logo=daisyui&logoColor=white" /> |
 | **插件 / 工具** | <img src="https://img.shields.io/badge/JetBrains-334E68?style=flat-square&logo=jetbrains&logoColor=white" /> <img src="https://img.shields.io/badge/IntelliJ%20Platform-334E68?style=flat-square&logo=intellijidea&logoColor=white" /> <img src="https://img.shields.io/badge/PowerShell-334E68?style=flat-square&logo=powershell&logoColor=white" /> |
