@@ -74,12 +74,12 @@ The common thread — self-hostable, and your keys never leave your machine.
 
 | Project | What it is | Where |
 |:--|:--|:--|
-| **KeyHub** | KeyHub turns the whole terminal-only chain — generate a key, deploy the pubkey, edit ~/.ssh/config, fix permissions, diagnose the handshake — into a visual desktop flow that is auditable and rolls back.<br/> `Rust` · `Tauri 2` · `Vue 3` | <a href="https://keyhub.casuainess.cn">live&#160;↗</a><br/><a href="https://github.com/YimoLab/moyao-keyhub">source&#160;↗</a> |
+| **KeyHub** | KeyHub turns the whole terminal-only chain — generate a key, deploy the pubkey, edit ~/.ssh/config, fix permissions, diagnose the handshake — into a visual desktop flow that is auditable and rolls back.<br/> `Rust` · `Tauri 2` · `Vue 3` | <a href="https://keyhub.casuainess.cn">live&#160;↗</a> |
 | **LazyGit&#8209;Commit** | Reads the git diff, then writes the Conventional Commits message for you.<br/> `Kotlin` · `Shell` · `PowerShell` | <a href="https://plugins.jetbrains.com/plugin/30076-lazygit-commit">Marketplace&#160;↗</a> |
 | **Oline&#8209;SSH** | A ready-to-run web SSH, server and database console in one place.<br/> `JavaScript` · `Vue` · `TypeScript` · `CSS` · `Shell` | <a href="https://ssh.casuainess.cn">live&#160;↗</a> |
 | **Smart&#8209;Code&#8209;TT** | Turns one Chinese sentence into a well-formed English identifier.<br/> `Vue` · `TypeScript` · `CSS` · `HTML` | <a href="https://var.suwanmo.cn">live&#160;↗</a> |
 
-<sub>Source mostly lives on <a href="https://codeberg.org/YimoLab">codeberg.org/YimoLab&#160;↗</a> (most repos private); KeyHub is open source on <a href="https://github.com/YimoLab/moyao-keyhub">GitHub&#160;↗</a>.</sub>
+<sub>Source lives on <a href="https://codeberg.org/YimoLab">codeberg.org/YimoLab&#160;↗</a>; most repos are private.</sub>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
