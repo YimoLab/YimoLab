@@ -74,11 +74,12 @@
 
 | 项目 | 是什么 | 入口 |
 |:--|:--|:--|
+| **KeyHub** | 墨钥 KeyHub 把「生成密钥 → 部署公钥 → 改 ~/.ssh/config → 校准权限 → 诊断连通」从终端搬进可视化、可回滚、可审计的桌面流程。<br/> `Rust` · `Tauri 2` · `Vue 3` | <a href="https://keyhub.casuainess.cn">线上站点 ↗</a> · <a href="https://github.com/YimoLab/moyao-keyhub">源码 ↗</a> |
 | **LazyGit&#8209;Commit** | 读一遍 Git diff，直接写出符合 Conventional Commits 规范的提交信息。<br/> `Kotlin` · `Shell` · `PowerShell` | <a href="https://plugins.jetbrains.com/plugin/30076-lazygit-commit">Marketplace ↗</a> |
 | **Oline&#8209;SSH** | 开箱即用的 Web SSH / 服务器管理 / 数据库管理一体化平台。<br/> `JavaScript` · `Vue` · `TypeScript` · `CSS` · `Shell` | <a href="https://ssh.casuainess.cn">线上站点 ↗</a> |
 | **Smart&#8209;Code&#8209;TT** | 把一句中文描述翻译成规范的英文变量名、函数名或类名。<br/> `Vue` · `TypeScript` · `CSS` · `HTML` | <a href="https://var.suwanmo.cn">线上站点 ↗</a> |
 
-<sub>源码托管在 <a href="https://codeberg.org/YimoLab">codeberg.org/YimoLab ↗</a>，多数为私有仓库。</sub>
+<sub>源码主要在 <a href="https://codeberg.org/YimoLab">codeberg.org/YimoLab ↗</a>（多数为私有仓库）；KeyHub 已在 <a href="https://github.com/YimoLab/moyao-keyhub">GitHub ↗</a> 开源。</sub>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
